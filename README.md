@@ -88,11 +88,10 @@
 <details>
   <summary><b>외관 및 내부</b> (👈 Click)</summary>
   <br>
-  
-  |전면 사진|후면 사진|
-  |:---------:|:--------------:|
-  |<img src="https://github.com/user-attachments/assets/2b275616-3051-453e-9e6c-93cb56403062" width="300" alt="페이퍼 프로토타입">|    
-  <img src="https://github.com/user-attachments/assets/b95975c2-870e-41f2-bc87-6d97e04c8640" width="300" alt="페이퍼 프로토타입">|
+
+  |전면 외관|후면 외관|
+  |:--:|:--:|
+  |<img src="https://github.com/user-attachments/assets/2b275616-3051-453e-9e6c-93cb56403062" width="300" alt="페이퍼 프로토타입">|<img src="https://github.com/user-attachments/assets/b95975c2-870e-41f2-bc87-6d97e04c8640" width="300" alt="페이퍼 프로토타입">|
   <ul>
     <li>
       외관 모습
