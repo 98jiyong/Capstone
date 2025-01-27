@@ -88,34 +88,18 @@
 <details>
   <summary><b>외관 및 내부</b> (👈 Click)</summary>
   <br>
+  <li>
+    외관 모습
+  </li>
 
   |전면 외관|후면 외관|
   |:--:|:--:|
-  |<img src="https://github.com/user-attachments/assets/2b275616-3051-453e-9e6c-93cb56403062" width="300" alt="페이퍼 프로토타입">|<img src="https://github.com/user-attachments/assets/b95975c2-870e-41f2-bc87-6d97e04c8640" width="300" alt="페이퍼 프로토타입">|
-  <ul>
-    <li>
-      외관 모습
-    </li>
-    <br><br>
-    <li>
-      내부 모습
-    </li>
-    <img src="https://github.com/user-attachments/assets/accfb5d4-27e5-439b-80a5-fcd4eb8acb91" width="400" alt="페이퍼 프로토타입"><br>
-  </ul>
-</details><br>
-<details>
-  <summary><b>3. 관리자 GUI 화면</b> (👈 Click)</summary>
-  <br>
-  <ul>
-    <li>
-      페이퍼 프로토타입
-    </li>
-    <img src="https://github.com/user-attachments/assets/9387222a-e637-45a2-81fd-f35297fe342d" alt="페이퍼 프로토타입"><br><br>
-    <li>
-      결과 화면
-    </li>
-    <img src="https://github.com/user-attachments/assets/b616c9df-7eb6-4cf8-a61e-0d8769f64e7c" width="500" alt="페이퍼 프로토타입"><br>
-  </ul>
+  |<img src="https://github.com/user-attachments/assets/2b275616-3051-453e-9e6c-93cb56403062" width="300" alt="페이퍼 프로토타입">|<img src="https://github.com/user-attachments/assets/b95975c2-870e-41f2-bc87-6d97e04c8640" width="300" alt="페이퍼 프로토타입">|    
+
+  <li>
+    내부 모습
+  </li><br>
+  <img src="https://github.com/user-attachments/assets/accfb5d4-27e5-439b-80a5-fcd4eb8acb91" width="400" alt="페이퍼 프로토타입"><br>
 </details><br>
 
 [📌 목차로 이동](#-목차)
